@@ -1,0 +1,11 @@
+<title>
+"Lista de compra para el supermercado"
+	<frutas>
+		<fruta>
+			<nombre>"Banana"</nombre>
+		</fruta>
+		<fruta>
+			<nombre>"Fresas"</nombre>
+		</fruta>
+	</frutas>
+</title>
